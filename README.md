@@ -1,4 +1,4 @@
-# Portfolio Vanilla - Thuần không dùng Framework
+# Portfolio VanillaJS - Thuần không dùng Framework
 - HTML
 - CSS
 - JavaScript
